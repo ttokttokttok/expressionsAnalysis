@@ -1,1 +1,1 @@
-# sageMakerXPyTorch
+# Image Expressions AI analysis practice
